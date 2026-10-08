@@ -1,0 +1,7 @@
+{
+  "name": "Groq AI",
+  "description": "Команда /ai для запитів до Groq, відповідь бачите лише ви",
+  "authors": [{ "name": "me" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_message_edit" }
+}
